@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class Weechat extends AbstractKindlet
+public class Weechat implements Kindlet
 {
 	private KindletContext context;
 	private MainPanel mainPanel;
