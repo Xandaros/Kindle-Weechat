@@ -1,0 +1,5 @@
+*.class
+*.jar
+*.azw2
+# That's the KDK, which is owned by amazon. Get it from your kindle in /opt/amazon/ebook/lib/Kindlet-2.2.jar
+com/

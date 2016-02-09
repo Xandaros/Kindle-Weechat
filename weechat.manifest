@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: xandaros.weechat.Weechat
+Implementation-Title: Weechat Relay Client
+Implementation-Version: 1.0
+Implementation-Vendor: Xandaros
+Extension-List: SDK
+SDK-Extension-Name: com.amazon.kindle.kindlet
+SDK-Specification-Version: 2.1
+Toolbar-Mode: persistent
+Font-Size-Mode: point
